@@ -269,7 +269,7 @@ a:hover {
 }
 
 .timeline-img {
-    background-image: url(photos/IMG_8522.JPG);
+    background-image: url(photos/IMG_8522.jpg);
     height: 70vh;
     width: 30vw;
     background-position: center;
@@ -371,17 +371,17 @@ a:hover {
 }
 
 .gallery-img:nth-child(1) {
-    background-image: url(photos/IMG_8589.JPG);
+    background-image: url(photos/IMG_8589.jpg);
     background-position-x: right;
 }
 
 .gallery-img:nth-child(2) {
     background-position-y: top;
-    background-image: url(photos/IMG_85211.JPG);
+    background-image: url(photos/IMG_85211.jpg);
 }
 
 .gallery-img:nth-child(3) {
-    background-image: url(photos/IMG_8584.JPG);
+    background-image: url(photos/IMG_8584.jpg);
 }
 
 @media (max-width:1000px) {
@@ -604,7 +604,7 @@ footer h2 {
 
 .hero {
     height: 70vh;
-    background: url("photos/IMG_81002.JPG") center/cover no-repeat;
+    background: url("photos/IMG_81002.jpg") center/cover no-repeat;
     position: relative;
     display: flex;
     justify-content: center;
