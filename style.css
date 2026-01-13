@@ -216,7 +216,7 @@ a:hover {
 }
 
 .home-img {
-    background-image: url(photos/IMG_8606.jpg);
+    background-image: url(photos/IMG_1301.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -269,7 +269,7 @@ a:hover {
 }
 
 .timeline-img {
-    background-image: url(photos/IMG_8522.jpg);
+    background-image: url(photos/IMG_1302.jpg);
     height: 70vh;
     width: 30vw;
     background-position: center;
@@ -371,17 +371,17 @@ a:hover {
 }
 
 .gallery-img:nth-child(1) {
-    background-image: url(photos/IMG_8589.jpg);
+    background-image: url(photos/IMG_1303.jpg);
     background-position-x: right;
 }
 
 .gallery-img:nth-child(2) {
     background-position-y: top;
-    background-image: url(photos/IMG_8521.jpg);
+    background-image: url(photos/IMG_1304.jpg);
 }
 
 .gallery-img:nth-child(3) {
-    background-image: url(photos/IMG_8584.jpg);
+    background-image: url(photos/IMG_1305.jpg);
 }
 
 @media (max-width:1000px) {
@@ -432,7 +432,7 @@ a:hover {
 .hands {
     height: 120vh;
     width: 100%;
-    background-image: url(photos/IMG_8551.jpg);
+    background-image: url(photos/IMG_1306.jpg);
     background-size: cover;
     background-position-y: top;
     background-repeat: no-repeat;
@@ -494,7 +494,7 @@ a:hover {
 }
 
 .registry-img {
-    background-image: url(photos/IMG_8606.jpg);
+    background-image: url(photos/IMG_1301.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -604,7 +604,7 @@ footer h2 {
 
 .hero {
     height: 70vh;
-    background: url("photos/IMG_81002.jpg") center/cover no-repeat;
+    background: url("photos/IMG_1311.jpg") center/cover no-repeat;
     position: relative;
     display: flex;
     justify-content: center;
@@ -679,10 +679,6 @@ footer h2 {
         gap: 15px;
     }
 }
-
-
-
-
 /*ceva nou*/
 /* Reset minim */
 * {
